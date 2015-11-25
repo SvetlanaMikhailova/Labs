@@ -1,0 +1,16 @@
+2015-11-25 14:53:22 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "DEPARTMENT_USER" не найдена
+Table "DEPARTMENT_USER" not found; SQL statement:
+alter table Department_User drop constraint FK_8jvki02r868bj285awehwdopi [42102-188]
+2015-11-25 14:53:22 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "DEPARTMENT_USER" не найдена
+Table "DEPARTMENT_USER" not found; SQL statement:
+alter table Department_User drop constraint FK_kb152kvlkalo4gmcyfkd50tg0 [42102-188]
+2015-11-25 14:53:22 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "ITEM" не найдена
+Table "ITEM" not found; SQL statement:
+alter table Item drop constraint FK_59pwuale7q0ni8w5wtq0i0sp9 [42102-188]
+2015-11-25 14:53:22 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "USER" не найдена
+Table "USER" not found; SQL statement:
+alter table User drop constraint FK_ag4aehxdsoc7i4ndueql2mjkl [42102-188]
